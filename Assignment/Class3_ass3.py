@@ -1,3 +1,4 @@
+# Baggage processing program
 print('Welcome to John baggage handling enterprise')
 print('Please enter the weight of your baggage in kg')
 weight=float(input())
