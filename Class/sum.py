@@ -1,0 +1,6 @@
+print('Hello, let\'s add two numbers')
+print('Please enter the 1st number')
+x=input()
+print('Please enter the 2nd number')
+y=input()
+print('The sum of your two numbers is ' + str(float(x)+float(y)))
